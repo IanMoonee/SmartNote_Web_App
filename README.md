@@ -5,7 +5,8 @@
 --2 Month project.
 --3 people team -  Contributors : <a href="https://github.com/IanMoonee">Themis Zouboulakis</a> ,<a href="https://github.com/ggiannas">Giorgos Giannas</a> .
 
-I've done most of the backend functionality & all the UI design.
+<a href="https://github.com/TsolosT">Theologos Tsolovikos</a> done most of the backend functionality & all the UI design.
+<a href="https://github.com/IanMoonee">Themis Zouboulakis</a> done backend work, redesigned the database and fixed some bugs.
 
 ## Getting Started
 
